@@ -15,8 +15,6 @@ const ComponenteSeis = (props) => {
             <ul>
                 {clientes()}
             </ul>
-
-
         </div>
     )
 }

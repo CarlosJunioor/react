@@ -19,7 +19,6 @@ function App () {
         <ComponenteTres title='PROP SENTED' title2='PROP SENTED 2' />
         <ComponenteQuatro title="Componente 4">
         </ComponenteQuatro>
-
         <ComponenteSeis />
 
         </>
