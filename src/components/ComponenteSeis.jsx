@@ -13,7 +13,7 @@ const ComponenteSeis = (props) => {
             <p className="titulo">Titulo:</p>
 
             <ul>
-                {clientes()}
+                {cliente()}
             </ul>
         </div>
     )
